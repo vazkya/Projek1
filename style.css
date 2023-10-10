@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.baju{
+    background-color: blue;
+    color: red;
+}
+.baju2{
+    background-color: grey;
+    width:35%;
+    height:300px;
+    overflow:auto;
+    float: left;
+}
+.baju3{
+    background-color: red;
+    width: 65%;
+    height: 300px;
+    overflow: auto;
+    
+}
+footer{
+    background-color : green;
+    width:100%;
+    height:30px;
+    display:inline-block;
+}
+label{
+    display:block;
+}
